@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imporvise/divider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/primeFactorization/primeFactors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pervii.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/primalityTest/Pervii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primeFactorization/primeFactors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -50,13 +48,15 @@
         <option value="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest.html" />
         <option value="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest.js" />
         <option value="$PROJECT_DIR$/src/main/java/primalityTest/primaryTestBestSolution.js" />
+        <option value="$PROJECT_DIR$/src/main/java/imporvise/divider.js" />
         <option value="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js" />
+        <option value="$PROJECT_DIR$/src/main/java/primeFactorization/primeFactors.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
-    <option name="width" value="1694" />
+    <option name="width" value="1302" />
     <option name="height" value="1532" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,6 +68,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,26 +94,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jstut1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="primalityTest" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586124808432" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586286908786" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aca-Julian/academia-white" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -173,16 +165,18 @@
       <workItem from="1584921013365" duration="60000" />
       <workItem from="1585346871786" duration="23000" />
       <workItem from="1586121220668" duration="3503000" />
+      <workItem from="1586178349268" duration="3118000" />
+      <workItem from="1586286464434" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7982000" />
+    <option name="totallyTimeSpent" value="11804000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="847" height="766" extended-state="0" />
+    <frame x="-5" y="0" width="651" height="766" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27664974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36824325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -257,10 +251,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/imporvise/divider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primeFactorization/primeFactors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>

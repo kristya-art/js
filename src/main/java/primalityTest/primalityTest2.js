@@ -8,6 +8,7 @@ function isPrime(n){
      if (n%2 == 0 || n%3 == 0) return false;
 
      for (var i=5; i*i<=n; i=i+6){
+         return i;
          if (n%i == 0 || n%(i+2) == 0)
              return false;
          }
@@ -15,4 +16,4 @@ function isPrime(n){
      return true;
 }
 
-    console.log(isPrime(11));
+    console.log(isPrime(43));

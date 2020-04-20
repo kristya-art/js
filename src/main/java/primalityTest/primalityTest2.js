@@ -11,9 +11,10 @@ function isPrime(n){
          return i;
          if (n%i == 0 || n%(i+2) == 0)
              return false;
+
          }
 
      return true;
 }
 
-    console.log(isPrime(43));
+    console.log(isPrime(3));

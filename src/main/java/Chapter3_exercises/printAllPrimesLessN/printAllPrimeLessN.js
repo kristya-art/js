@@ -1,11 +1,14 @@
 //Print all primes less than n.
 
+//!!!!!!!!!! need to be changed for numbers less as 4
+
 function PrintAllPrimesLessThenN(n)
 {
     var array =[2,3];
     for (var i=5; i<n; i=i+6){
-       array.push(i);
-       array.push(i+2);
+
+            array.push(i);
+            array.push(i + 2);
 
     }
 
@@ -28,3 +31,4 @@ function isPrime(k){
 }
 
 PrintAllPrimesLessThenN(70);
+

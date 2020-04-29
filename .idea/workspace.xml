@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimesLessN_solutionBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/maxDivide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4_strings/countChars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4_strings/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/improvise/modulo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimeLessN.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimeLessN.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/imporvise/PrimeTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/improvise/PrimeTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/imporvise/divider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/improvise/divider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimeLessN.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimeLessN.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,20 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimesLessN_solutionBook.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter4_strings/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimeLessN.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter4_strings/countChars.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -65,12 +68,17 @@
         <option value="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest2.js" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimeLessN.js" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimesLessN_solutionBook.js" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimeLessN.js" />
+        <option value="$PROJECT_DIR$/src/main/java/improvise/modulo.js" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/maxDivide.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4_strings/test.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4_strings/countChars.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
-    <option name="width" value="1302" />
+    <option name="width" value="1032" />
     <option name="height" value="1532" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +121,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="printAllPrimesLessN" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4_strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jstut1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="improvise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jstut1" type="b2602c69:ProjectViewProjectNode" />
@@ -127,14 +144,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587914832310" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588196277604" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aca-Julian/academia-white" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -161,11 +177,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.primalityTest.js">
+  <component name="RunManager" selected="Node.js.countChars.js">
     <configuration name="Pervii.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jstut1/primalityTest/Pervii.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Pervii.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/Pervii.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="countChars.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter4_strings/countChars.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="maxDivide.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/maxDivide.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="primalityTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest.js" working-dir="$PROJECT_DIR$">
@@ -173,6 +195,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.countChars.js" />
+        <item itemvalue="Node.js.maxDivide.js" />
         <item itemvalue="Node.js.primalityTest.js" />
         <item itemvalue="Node.js.Pervii.js" />
         <item itemvalue="JavaScript Debug.Pervii.html" />
@@ -205,18 +229,19 @@
       <workItem from="1587242658609" duration="109000" />
       <workItem from="1587411326936" duration="3168000" />
       <workItem from="1587594445335" duration="21000" />
-      <workItem from="1587914101768" duration="723000" />
+      <workItem from="1587914101768" duration="8973000" />
+      <workItem from="1588172977026" duration="14000" />
+      <workItem from="1588194235799" duration="2039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26904000" />
+    <option name="totallyTimeSpent" value="37207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="651" height="766" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36655405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18638574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -226,11 +251,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32753164" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4836703" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39937106" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5069984" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -251,6 +276,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter4_strings/countChars.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -322,15 +359,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimeLessN.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="34">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/printAllPrimesLessN_solutionBook.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="161">
           <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/improvise/modulo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/maxDivide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter4_strings/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter4_strings/countChars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

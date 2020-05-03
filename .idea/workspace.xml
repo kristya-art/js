@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" afterDir="false" />
     </list>
@@ -14,26 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/Test2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,10 +54,11 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/TestArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/Test2.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberTimeComplexityN.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1302" />
     <option name="height" value="1532" />
@@ -133,7 +116,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588542149824" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588546378823" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aca-Julian/academia-white" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -160,7 +143,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.AddUp2aNumber.js">
+  <component name="RunManager" selected="Node.js.AddUp2NumberNoRedundance.js">
+    <configuration name="AddUp2NumberNoRedundance.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="AddUp2aNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -173,16 +159,13 @@
     <configuration name="maxDivide.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/maxDivide.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="primalityTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/primalityTest/primalityTest.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.AddUp2NumberNoRedundance.js" />
         <item itemvalue="Node.js.AddUp2aNumber.js" />
         <item itemvalue="Node.js.NumOfOccurencesFromBook.js" />
         <item itemvalue="Node.js.NumOfOccurencesMe.js" />
         <item itemvalue="Node.js.maxDivide.js" />
-        <item itemvalue="Node.js.primalityTest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -217,18 +200,17 @@
       <workItem from="1588194235799" duration="4345000" />
       <workItem from="1588337402263" duration="11000" />
       <workItem from="1588348424346" duration="865000" />
-      <workItem from="1588533034534" duration="3608000" />
+      <workItem from="1588533034534" duration="7819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43997000" />
+    <option name="totallyTimeSpent" value="48208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21555915" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21555915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -237,12 +219,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32753164" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32659408" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4836703" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3919129" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22395024" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -389,6 +371,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/TestArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/Test2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -398,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state relative-caret-position="225">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>

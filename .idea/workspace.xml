@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetterPractice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/MAP/test-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/TestHashTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/improvise/Test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,7 +19,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetterPractice.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElements.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/improvise/Test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/TestHashTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,10 +105,17 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/Test2.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberTimeComplexityN.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2Number3version.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/MAP/test-map.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/TestHashTable.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetterPractice.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetter.js" />
+        <option value="$PROJECT_DIR$/src/main/java/improvise/Test.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElements.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="1302" />
     <option name="height" value="1532" />
@@ -71,8 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +163,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chapter5_arrays" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jstut1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="improvise" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,7 +181,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588546378823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589832841284" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aca-Julian/academia-white" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -143,29 +208,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.AddUp2NumberNoRedundance.js">
-    <configuration name="AddUp2NumberNoRedundance.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.CommonElements.js">
+    <configuration name="AddUp2Number3version.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2Number3version.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="AddUp2aNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2aNumber.js" working-dir="$PROJECT_DIR$">
+    <configuration name="CommonElements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElements.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="NumOfOccurencesFromBook.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter4_strings/NumOfOccurencesFromBook.js" working-dir="$PROJECT_DIR$">
+    <configuration name="FindSumBetter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetter.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="NumOfOccurencesMe.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter4_strings/NumOfOccurencesMe.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/improvise/Test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="maxDivide.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/Chapter3_exercises/printAllPrimesLessN/maxDivide.js" working-dir="$PROJECT_DIR$">
+    <configuration name="test-map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/MAP/test-map.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.AddUp2NumberNoRedundance.js" />
-        <item itemvalue="Node.js.AddUp2aNumber.js" />
-        <item itemvalue="Node.js.NumOfOccurencesFromBook.js" />
-        <item itemvalue="Node.js.NumOfOccurencesMe.js" />
-        <item itemvalue="Node.js.maxDivide.js" />
+        <item itemvalue="Node.js.CommonElements.js" />
+        <item itemvalue="Node.js.Test.js" />
+        <item itemvalue="Node.js.FindSumBetter.js" />
+        <item itemvalue="Node.js.test-map.js" />
+        <item itemvalue="Node.js.AddUp2Number3version.js" />
       </list>
     </recent_temporary>
   </component>
@@ -201,16 +266,23 @@
       <workItem from="1588337402263" duration="11000" />
       <workItem from="1588348424346" duration="865000" />
       <workItem from="1588533034534" duration="7819000" />
+      <workItem from="1588623424395" duration="13000" />
+      <workItem from="1588881193671" duration="4347000" />
+      <workItem from="1588941078494" duration="4304000" />
+      <workItem from="1589143671771" duration="5302000" />
+      <workItem from="1589415296542" duration="5191000" />
+      <workItem from="1589830792295" duration="2044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48208000" />
+    <option name="totallyTimeSpent" value="69409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21555915" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29578605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -220,11 +292,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32659408" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4836703" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4043546" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22395024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18506998" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -245,6 +317,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter5_arrays/MAP/test-map.js</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter5_arrays/MAP/test-map.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -371,13 +458,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/TestArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/Test2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -389,6 +469,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2Number3version.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/AddUp2NumberNoRedundance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/MAP/test-map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/FindSumBetterPractice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/TestHashTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/improvise/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>

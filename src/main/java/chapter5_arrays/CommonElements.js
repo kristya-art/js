@@ -13,7 +13,8 @@ function CommonNumbers(array1, array2){
         }
        // return output1;
     }
-console.log(output1);
+//console.log(output1);
+    return output1;
 
 }
-CommonNumbers([1,2,3], [0,5,2,1]);
+CommonNumbers([1,2,3,5], [0,5,2,1]);

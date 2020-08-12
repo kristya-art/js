@@ -8,6 +8,8 @@ function NoDuplicates(arr){
         for(let cc=c+1;cc<arrcopy.length;cc++){
             if(arrcopy[c] === arrcopy[cc]){
                 arrcopy.splice(cc,1);
+                cc--; // added this line, each time when we delete a number from array we have to decrement index, cuz instead of
+                     // for condition with cc++, in this fall we have cc+2
             }
         }
     }
@@ -16,8 +18,8 @@ function NoDuplicates(arr){
 
 }
 
-NoDuplicates([2,3,4,2,3,4,2,3]);
+NoDuplicates([5,2,2,2,2,2,3,3,3,4,4,4,4,5,2,2,2,2,5,5,5,5,5,5,5]);
 
 //output
-//=> [ 2, 3, 4, 2, 3, 4, 2, 3 ]
-//=> [ 2, 3, 4 ]
+//=>[ 5, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 2, 2, 2, 2, 5, 5, 5, 5, 5, 5, 5 ]
+//=>    [ 5, 2, 3, 4 ]

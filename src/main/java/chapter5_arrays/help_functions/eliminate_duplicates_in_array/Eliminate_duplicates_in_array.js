@@ -15,6 +15,7 @@ function NoDuplicates(arr){
     }
     console.log(arr); //we see that original array doesn't changed cuz of function Array.from()
     console.log(arrcopy);// the result
+    return arrcopy; // we return array with no duplicates in it
 
 }
 

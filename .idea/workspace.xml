@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="289">
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -81,15 +90,15 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElementsTest.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElementsIn3Arrays.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_1.js" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_redudance_in_array.ts" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/Eliminate_redundance_in_array.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/Eliminate_duplicates_in_array.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1270" />
     <option name="width" value="1302" />
     <option name="height" value="1532" />
@@ -165,7 +174,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597312766697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597314488162" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -196,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Eliminate_duplicates_in_array.js">
+  <component name="RunManager" selected="Node.js.find_common_elements_in_3_arrays_2.js">
     <configuration name="CommonElementsIn3Arrays_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -225,8 +234,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Eliminate_duplicates_in_array.js" />
         <item itemvalue="Node.js.find_common_elements_in_3_arrays_2.js" />
+        <item itemvalue="Node.js.Eliminate_duplicates_in_array.js" />
         <item itemvalue="Node.js.CommonElementsIn3Arrays_1.js" />
         <item itemvalue="Node.js.CommonElementsIn3Arrays.js" />
         <item itemvalue="Node.js.CommonElementsTest.js" />
@@ -290,18 +299,18 @@
       <workItem from="1597227300416" duration="4112000" />
       <workItem from="1597245781519" duration="1799000" />
       <workItem from="1597248449492" duration="36000" />
-      <workItem from="1597312430064" duration="286000" />
+      <workItem from="1597312430064" duration="2054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115002000" />
+    <option name="totallyTimeSpent" value="116770000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="635" y="0" width="651" height="766" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14262562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -310,7 +319,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27371696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27371696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38258165" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,16 +368,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElementsTest.js</url>
           <line>11</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js</url>
-          <line>5</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js</url>
-          <line>27</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -602,12 +601,11 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_redudance_in_array.ts" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate_duplicates.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_1.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -616,13 +614,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="289">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
         </state>
       </provider>
     </entry>

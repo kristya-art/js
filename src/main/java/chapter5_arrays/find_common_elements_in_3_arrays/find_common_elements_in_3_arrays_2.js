@@ -1,51 +1,49 @@
 /**
- find the common elements in 3 arrays with no duplicates and do it in more efficient way
+ Find the common elements in 3 arrays with no duplicates
+ @ Author me
  */
 function FindCommonElements(arr, arr1,arr2){
 
-    var arr4=[];
+    var arr4 =[];
 
+    let arrcopy=NoDuplicates(arr);
+   console.log(arrcopy); // to check if the function works good
 
+    for(var i=0; i<arrcopy.length;i++) {
+        for (var j = 0; j < arr1.length; j++) {
 
-  // function CompareNum(arr, arr1, arr2) {
+            if (arrcopy[i] === arr1[j]) {
+                for (var t = 0; t < arr2.length; t++) {
 
-            for(var i=0; i<arr.length;i++) {
-                for(var c=0;c<=arr4.length;c++){
-                    if(arr[i] !== arr4[c]){
-
-
-                     for (var j = 0; j < arr1.length; j++) {
-
-                         if (arr[i] === arr1[j]) {
-                             for (var t = 0; t < arr2.length; t++) {
-
-                                 if (arr[i] === arr2[t]) {
-                                     //  console.log([arr[i]]+' the common element in these 3 arrays');
-                                     arr4.push(arr[i]);
-
-                                     break; // we break here and start from next i element, cuz continue doesn't have sense
-
-
-                                 }
+                    if (arrcopy[i] === arr2[t]) {
+                        arr4.push(arrcopy[i]);
+                        break; // to avoid duplicates in the 3d array
+                                }
                              }
+                break; // to avoid duplicates from 2nd array
                          }
                      }
-            } else {break;}
-        }
-    }
-
-    /**
-     * @return {boolean}
+            }
+    /*
+    This is a help function makes a copy of array that doesn't have a duplicates
      */
-    function Compare(arr5,arr6){
-        for(var c=0;c<arr5.length;c++){
-            for(var cc=0;cc<arr6;cc++){
-                if(arr5[c]===arr6[cc]){
-                    return true;
+    function NoDuplicates(arr){
+        let arrcopy= Array.from(arr);
+
+        for(let c=0;c<arrcopy.length;c++){
+            for(let cc=c+1;cc<arrcopy.length;cc++){
+                if(arrcopy[c] === arrcopy[cc]){
+                    arrcopy.splice(cc,1);
+                    cc--; // added this line, each time when we delete a number from array we have to decrement index, cuz instead of
+                    // for condition with cc++, in this fall we have cc+2
                 }
             }
         }
-    }
+        return arrcopy;
+            }
+
+
+
     if(arr4.length>1) {
 
         console.log(arr4 + ' Are common elements of these 3 arrays');}
@@ -54,4 +52,6 @@ function FindCommonElements(arr, arr1,arr2){
 }
 
 
-FindCommonElements([1,2,5], [2,3,4,8], [3,4,5,6,7,8,2]);
+FindCommonElements([1,2,5,2,3,1,1,1,1,4,2,5,6,3], [2,3,4,3,5,3,3,2,1,1,1,1,1,2,8], [3,4,5,6,7,8,2,2,2,2,2,3,1,1,1,1,1]);
+
+//=> output=>1,2,5,3,4 Are common elements of these 3 arrays

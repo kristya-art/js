@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,12 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1270" />
     <option name="width" value="1302" />
     <option name="height" value="1532" />
@@ -170,7 +165,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597247568972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597312766697" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -294,16 +289,19 @@
       <workItem from="1597147310591" duration="11000" />
       <workItem from="1597227300416" duration="4112000" />
       <workItem from="1597245781519" duration="1799000" />
+      <workItem from="1597248449492" duration="36000" />
+      <workItem from="1597312430064" duration="286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114680000" />
+    <option name="totallyTimeSpent" value="115002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <frame x="635" y="0" width="651" height="766" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14991896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

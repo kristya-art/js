@@ -6,6 +6,8 @@ function FindCommonElements(arr, arr1,arr2){
 
     var arr4 =[];
 
+
+
     let arrcopy=NoDuplicates(arr);
    console.log(arrcopy); // to check if the function works good
 

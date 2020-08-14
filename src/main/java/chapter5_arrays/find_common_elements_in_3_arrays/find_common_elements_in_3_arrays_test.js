@@ -3,6 +3,7 @@
  * In this program we are changing the initial arrays using splice method to make Time Complexity more efficient
  * but it is not always a good idea maybe we need these arrays in unchangeable state, the part 2 of this program will
  * have solution for this case.
+ * @Author me
 */
 
 function CommonIn3(arr, arr1,arr2) {

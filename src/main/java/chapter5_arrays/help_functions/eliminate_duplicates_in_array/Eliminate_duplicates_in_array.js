@@ -1,5 +1,6 @@
 /**
  * This function makes copy of original array and eliminates in it duplicates
+ * @Author me
  */
 function NoDuplicates(arr){
     let arrcopy= Array.from(arr);

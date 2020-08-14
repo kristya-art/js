@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bdd1f1-5f35-4755-a41a-56fdf099411e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates_more_efficient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,21 +17,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            <state relative-caret-position="640">
+              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates_more_efficient.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            <state relative-caret-position="-470">
+              <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -93,8 +96,12 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_redudance_in_array.ts" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/Eliminate_redundance_in_array.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/Eliminate_duplicates_in_array.js" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_test.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrayys_no_duplicates_more_efficient.js" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates_more_efficient.js" />
       </list>
     </option>
   </component>
@@ -153,28 +160,19 @@
               <item name="chapter5_arrays" type="462c0819:PsiDirectoryNode" />
               <item name="find_common_elements_in_3_arrays" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jstut1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5_arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="eliminate_duplicates_in_array" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597314488162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597409393966" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -205,14 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.find_common_elements_in_3_arrays_2.js">
-    <configuration name="CommonElementsIn3Arrays_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_1.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.find_common_elements_in_3_arrays_no_duplicates_more_efficient.js">
     <configuration name="CommonElementsIn3Arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/common_elements_in_3_arrays/CommonElementsIn3Arrays.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="CommonElementsTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/CommonElementsTest.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Eliminate_duplicates_in_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js" working-dir="$PROJECT_DIR$">
@@ -221,24 +213,30 @@
     <configuration name="Test2.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="find_common_elements_in_3_arrays_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="find_common_elements_in_3_arrays_no_duplicates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="find_common_elements_in_3_arrays_no_duplicates_more_efficient.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates_more_efficient.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="find_common_elements_in_3_arrays_test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Test2.js" />
-      <item itemvalue="Node.js.CommonElementsTest.js" />
       <item itemvalue="Node.js.CommonElementsIn3Arrays.js" />
-      <item itemvalue="Node.js.CommonElementsIn3Arrays_1.js" />
-      <item itemvalue="Node.js.find_common_elements_in_3_arrays_2.js" />
+      <item itemvalue="Node.js.find_common_elements_in_3_arrays_test.js" />
+      <item itemvalue="Node.js.find_common_elements_in_3_arrays_no_duplicates.js" />
       <item itemvalue="Node.js.Eliminate_duplicates_in_array.js" />
+      <item itemvalue="Node.js.find_common_elements_in_3_arrays_no_duplicates_more_efficient.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.find_common_elements_in_3_arrays_2.js" />
+        <item itemvalue="Node.js.find_common_elements_in_3_arrays_no_duplicates_more_efficient.js" />
+        <item itemvalue="Node.js.find_common_elements_in_3_arrays_no_duplicates.js" />
         <item itemvalue="Node.js.Eliminate_duplicates_in_array.js" />
-        <item itemvalue="Node.js.CommonElementsIn3Arrays_1.js" />
+        <item itemvalue="Node.js.find_common_elements_in_3_arrays_test.js" />
         <item itemvalue="Node.js.CommonElementsIn3Arrays.js" />
-        <item itemvalue="Node.js.CommonElementsTest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -299,18 +297,19 @@
       <workItem from="1597227300416" duration="4112000" />
       <workItem from="1597245781519" duration="1799000" />
       <workItem from="1597248449492" duration="36000" />
-      <workItem from="1597312430064" duration="2054000" />
+      <workItem from="1597312430064" duration="2880000" />
+      <workItem from="1597406539957" duration="2321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116770000" />
+    <option name="totallyTimeSpent" value="119917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14262562" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38411668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -319,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27371696" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30793157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38258165" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -597,34 +596,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_redudance_in_array.ts" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_mechanism.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_redudance_in_array.ts" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate-duplicates-array.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/eliminate_duplicates.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/CommonElementsIn3Arrays_1.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="640">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/help_functions/eliminate_duplicates_in_array/Eliminate_duplicates_in_array.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_no_duplicates_more_efficient.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5_arrays/find_common_elements_in_3_arrays/find_common_elements_in_3_arrays_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        <state relative-caret-position="-470">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
         </state>
       </provider>
     </entry>

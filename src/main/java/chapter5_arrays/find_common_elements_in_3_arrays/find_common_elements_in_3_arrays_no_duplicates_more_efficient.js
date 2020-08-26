@@ -73,3 +73,5 @@ function FindCommonElements(arr, arr1,arr2){
 
 
 FindCommonElements([1,2,5,2,3,1,1,1,1,4,2,5,6,3], [2,3,2,2,1,1,10], [3,4,5,6,7,8,2,2,2,2,2,3,1,1,1,1,1]);
+
+//=> output => 2,3,1 Are common elements of these 3 arrays
